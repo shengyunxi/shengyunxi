@@ -55,16 +55,6 @@ I am **Sheng Yunxi**, a developer traversing the delicate intersection of logic 
 
 ### 💌 Keep in Touch
 
-<div align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/The_Letter-F8F9FA?style=for-the-badge&logo=icloud&logoColor=black" />
-  </a>
-  &nbsp;
-  <a href="https://your-website.com">
-    <img src="https://img.shields.io/badge/The_Journal-121011?style=for-the-badge&logo=ghost&logoColor=white" />
-  </a>
-</div>
-
 <br />
 
 <p align="right">
