@@ -48,8 +48,6 @@ I am **Sheng Yunxi**, a developer traversing the delicate intersection of logic 
 
 <p align="right">
   <i>"Driven by curiosity, refined by time."</i> <br />
-  <img src="https://profile-counter.glitch.me/shengyunxi/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/shengyunxi/count.svg" alt="10008611" />
 </p>
 
-<p align="center">
-  <img src
