@@ -42,17 +42,6 @@ I am **Sheng Yunxi**, a developer traversing the delicate intersection of logic 
 
 ---
 
-### ☁️ Digital Footprint
-
-
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=shengyunxi&show_icons=true&theme=vivid&hide_border=true&title_color=333" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shengyunxi&layout=compact&theme=vivid&hide_border=true&title_color=333" />
-</p>
-
----
-
 ### 💌 Keep in Touch
 
 <br />
