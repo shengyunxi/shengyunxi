@@ -1,53 +1,32 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Sheng%20Yunxi&fontSize=80&animation=fadeIn&fontAlignY=45" />
-</p>
+# 🎤 你好，我是 ShengYunXi 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&size=24&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Curating+digital+experiences.;Logic+met+Aesthetics.;Weaving+stories+into+source+code." alt="Typing SVG" />
-</p>
+🌟 **巡演达人 | 写作与艺术结合者 | 创意内容推动者**
 
 ---
 
-### 🕊️ The Curator's Perspective
+我是 ShengYunXi，一名跨界的创意内容创作者，拥有 **365场全国巡回演唱会** 的丰富经验，也是一名情感细腻的写作者。我将舞台上的艺术与指尖下的文字结合，传递温暖和力量，激发创造和共鸣。
 
-> **"In the precision of code, I find the rhythm of poetry."**
+🎵 **关于我：**
+- 曾完成 **365场全国巡回演唱会**，触及观众超过 **100万+**  
+- 擅长将 **音乐、舞蹈** 与 **写作** 打造为独特艺术形式  
+- 发布了超过 **100+ 篇原创文章**，分享深思与灵感  
+- 正探索 **艺术 X 技术** 的创新边界，传递更丰富的创作体验  
 
-I am **Sheng Yunxi**, a developer traversing the delicate intersection of logic and minimalism. I believe that software should not only function seamlessly but breathe with a sense of calm and clarity. To me, programming is the art of planting digital forests in the vast wilderness of the internet.
+👀 **我的愿景：**
+- 通过艺术创作让更多人感受到情感的真实、创意的活力  
+- 以文字记录世界，用舞台感染生命  
+- 欢迎加入我，成为灵感共享的一员！ ✨
 
-* 🌿 **Current Focus:** Crafting high-fidelity UI/UX and exploring the fluidity of front-end engineering.
-* 📖 **Philosophy:** Strip away the noise; leave only the essential.
-* 🎨 **Inspiration:** Minimalist architecture, film photography, and the quiet hours of dawn.
-
----
-
-### 🛠️ The Craftsmanship Box
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Creative-Design-E7E7E7?style=flat-square&logo=canva&logoColor=black" />
-  <img src="https://img.shields.io/badge/Elegant-Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fluid-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Modern-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clean-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-</p>
+📌 **近期项目：**
+- 结合写作与艺术，创作充满个人风格的跨界作品  
+- 探索新形式的内容发布计划，期待各位关注与见证成长！  
 
 ---
 
-### 📂 Muse & Projects
+![SVG Header](https://raw.githubusercontent.com/shengyunxi/shengyunxi/main/assets/github_readme_header.svg)
 
-#### 🌌 [Lumina.io]
-*An algorithm-driven filter system that captures the essence of light and shadow, allowing colors to flow naturally across the screen.*
-
-#### 🌊 [Echo Memo]
-*A minimalist productivity tool designed to strip away distractions and leave only pure, focused thought.*
-
----
-
-### 💌 Keep in Touch
-
-<br />
-
-<p align="right">
-  <i>"Driven by curiosity, refined by time."</i> <br />
-  <img src="https://profile-counter.glitch.me/shengyunxi/count.svg" alt="10008611" />
-</p>
-
+## 🚀 **联系与互动**
+- GitHub: [ShengYunXi 的主页](#)
+- 博客: [我的创意分享地](#)
+- 视频平台: [观看我的歌舞与表演](#)
+- **交流合作：** 热衷于跨界艺术创作？欢迎联系我一起实现！
