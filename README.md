@@ -1,32 +1,32 @@
-# 🎤 你好，我是 ShengYunXi 👋
+# 🎤 Hello, I'm ShengYunXi 👋
 
-🌟 **巡演达人 | 写作与艺术结合者 | 创意内容推动者**
+🌟 **Touring Artist | Writing & Arts Integrator | Creative Content Creator**
 
 ---
 
-我是 ShengYunXi，一名跨界的创意内容创作者，拥有 **365场全国巡回演唱会** 的丰富经验，也是一名情感细腻的写作者。我将舞台上的艺术与指尖下的文字结合，传递温暖和力量，激发创造和共鸣。
+I am ShengYunXi, a multidisciplinary creative content creator with extensive experience from **365 national tour concerts**, and a writer who expresses emotions thoughtfully. I blend the art of the stage with the power of words to deliver warmth, inspire creativity, and foster connection.
 
-🎵 **关于我：**
-- 曾完成 **365场全国巡回演唱会**，触及观众超过 **100万+**  
-- 擅长将 **音乐、舞蹈** 与 **写作** 打造为独特艺术形式  
-- 发布了超过 **100+ 篇原创文章**，分享深思与灵感  
-- 正探索 **艺术 X 技术** 的创新边界，传递更丰富的创作体验  
+🎵 **About Me:**
+- Successfully completed **365 national tour concerts**, reaching over **1 million+** audiences  
+- Skilled in combining **music, dance**, and **writing** to forge unique artistic experiences  
+- Published over **100+ original articles** to share insights and creativity  
+- Currently exploring innovative intersections of **arts and technology** for enriched creations  
 
-👀 **我的愿景：**
-- 通过艺术创作让更多人感受到情感的真实、创意的活力  
-- 以文字记录世界，用舞台感染生命  
-- 欢迎加入我，成为灵感共享的一员！ ✨
+👀 **My Aspirations:**
+- Inspire more people through authentic and vibrant artistic expressions  
+- Chronicle the world with words and touch lives on stage  
+- Join me in this journey of shared inspirations! ✨
 
-📌 **近期项目：**
-- 结合写作与艺术，创作充满个人风格的跨界作品  
-- 探索新形式的内容发布计划，期待各位关注与见证成长！  
+📌 **Current Projects:**
+- Creating distinctive cross-disciplinary works that merge writing and arts  
+- Exploring new forms of content creation and publishing, stay tuned for updates!  
 
 ---
 
 ![SVG Header](https://raw.githubusercontent.com/shengyunxi/shengyunxi/main/assets/github_readme_header.svg)
 
-## 🚀 **联系与互动**
-- GitHub: [ShengYunXi 的主页](#)
-- 博客: [我的创意分享地](#)
-- 视频平台: [观看我的歌舞与表演](#)
-- **交流合作：** 热衷于跨界艺术创作？欢迎联系我一起实现！
+## 🚀 **Connect with Me**
+- GitHub: [ShengYunXi's Profile](#)
+- Blog: [My Creative Projects](#)
+- Video Platform: [Watch my performances](#)
+- **Collaborate:** Passionate about cross-disciplinary arts? Let’s create together!
